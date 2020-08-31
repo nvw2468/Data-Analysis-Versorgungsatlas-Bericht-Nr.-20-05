@@ -6,6 +6,5 @@ chromedriver_win32.zip
 geckodriver-v0.27.0-win64
 geckodriver-v0.27.0-win64.zip
 geckodriver.log
-read_va_xlsx.py
 VA_Read_Xlsx_Function.ipynb
 __pycache__
